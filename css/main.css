@@ -1,9 +1,13 @@
 body {
-    max-width: 760px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 22px;
     line-height: 37px;
     padding: 23px;
+}
+
+#content{
+    max-width: 760px;
+    float: left;
 }
 
 h1 {
